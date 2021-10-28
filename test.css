@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(204, 194, 194);
+  color: black;
+}
+
+.graph {
+  background-color: #eaeaea;
+  display: inline-block;
+  width: 45%;
+  height: 250px;
+  margin: 10px;
+  padding: 5px;
+}
